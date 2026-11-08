@@ -94,7 +94,7 @@ Agradeço novamente a avaliação e permaneço à disposição para esclarecimen
 Atenciosamente,
 
 **César A. C. Moreira**
-Candidato a Doutor — PPCA/UnB
+Doutorando no PPCA/UnB (Programa de Pós-Graduação em Computação Aplicada, Universidade de Brasília)
 Especialista — GRH/CDHO, Apex-Brasil
 ORCID: 0009-0001-0248-6791
 E-mail: cesar.moreira@aluno.unb.br
