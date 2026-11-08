@@ -1,6 +1,6 @@
-# RBCA v3 — Revisão atendendo observações do Avaliador
+# RBCA v2 — Revisão atendendo observações do Avaliador
 
-Esta pasta contém a versão final (v3) do artigo submetido à **Revista Brasileira de Computação Aplicada (RBCA)**, edição de novembro/2026 (v18 n3), após o atendimento das observações do Avaliador 1.
+Esta pasta contém a versão revisada (v2) do artigo submetido à **Revista Brasileira de Computação Aplicada (RBCA)**, edição de novembro/2026 (v18 n3), após o atendimento das observações do Avaliador 1.
 
 ## Referência do artigo
 
@@ -14,18 +14,18 @@ Esta pasta contém a versão final (v3) do artigo submetido à **Revista Brasile
 
 | Arquivo | Descrição |
 |---|---|
-| `example_latex.tex` | Fonte LaTeX do artigo v3 (14 páginas estimadas) |
+| `example_latex.tex` | Fonte LaTeX do artigo (14 páginas estimadas) |
 | `references.bib` | Bibliografia (40 entradas; +2 novas: Hastie 2009, Hennig 2015) |
-| `RBCA_v3.0.cls` | Classe LaTeX oficial do template RBCA |
+| `RBCA_v3.0.cls` | Classe LaTeX oficial do template RBCA (versão da classe mantida pela revista) |
 | `figures/` | 6 figuras (confusion matrices, CV accuracy, fold distribution, importance, KNN k, ROC) |
-| `Phase2_RBCA_v3.zip` | Pacote único pronto para submissão (todos os arquivos acima) |
+| `Phase2_RBCA_v2.zip` | Pacote único pronto para submissão (todos os arquivos acima) |
 | `*.png` | Logos e imagens do template |
 
-## Mudanças v2 → v3
+## Mudanças em relação à submissão original
 
 Três pacotes de alterações foram aplicados em resposta às observações do Avaliador 1:
 
-1. **Reframing conceitual** (crítica principal): o artigo agora frame o experimento como *validação interna da separabilidade geométrica dos perfis da Fase 1*, não como avaliação preditiva externa. Mudanças coordenadas no Abstract (EN/PT), questão de pesquisa, objetivo geral, Seção 3.2.1 (expandida com 2 referências novas) e Contribuição Teórica.
+1. **Reframing conceitual** (crítica principal): o artigo agora enquadra o experimento como *validação interna da separabilidade geométrica dos perfis da Fase 1*, não como avaliação preditiva externa. Mudanças coordenadas no Abstract (EN/PT), questão de pesquisa, objetivo geral, Seção 3.2.1 (expandida com 2 referências novas) e Contribuição Teórica.
 
 2. **Sample size e estabilidade de classes minoritárias**: ressalva explícita sobre a incerteza das métricas por classe para Cluster 5 ($n=5$ no teste), com vínculo à estratégia *tiered* de deployment.
 
