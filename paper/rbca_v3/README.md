@@ -18,7 +18,6 @@ Esta pasta contém a versão final (v3) do artigo submetido à **Revista Brasile
 | `references.bib` | Bibliografia (40 entradas; +2 novas: Hastie 2009, Hennig 2015) |
 | `RBCA_v3.0.cls` | Classe LaTeX oficial do template RBCA |
 | `figures/` | 6 figuras (confusion matrices, CV accuracy, fold distribution, importance, KNN k, ROC) |
-| `Carta_Resposta_Avaliador.md` | Carta de resposta ponto-a-ponto ao editor e ao avaliador |
 | `Phase2_RBCA_v3.zip` | Pacote único pronto para submissão (todos os arquivos acima) |
 | `*.png` | Logos e imagens do template |
 
@@ -32,7 +31,7 @@ Três pacotes de alterações foram aplicados em resposta às observações do A
 
 3. **Design transversal e caso único**: reformulação das limitações para enquadrar o estudo como *proof-of-concept transferível*, não como validação externa dos perfis; e adição de bullet "Temporal monitoring" em pesquisa futura, ancorado em LGPD Art. 20.
 
-Detalhes ponto-a-ponto na carta de resposta.
+A carta de resposta ao editor (ponto-a-ponto) é mantida privadamente pelo autor e enviada diretamente ao e-mail da revista.
 
 ## Status editorial
 
